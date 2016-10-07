@@ -9,7 +9,7 @@ Test cases of LV distribution grids
 
 ## Overview
 
-* <i>lv-grid-1.txt: sub-urban LV distribution grid
+* <i>lv-grid-1.txt</i>: sub-urban LV distribution grid
 
 
 ## Contact and Main Contributors
