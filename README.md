@@ -17,6 +17,7 @@ Test cases of LV distribution grids
 * Christian Hirsch
 * Sebastian Kochanneck (kochanneck@kit.edu) - <b>main contact</b>
 * Ingo Mauser (mauser@kit.edu)
+* Johanna Geis-Schroer
 
 
 ## Literature
