@@ -24,20 +24,33 @@ Test cases of LV distribution grids
 
 Sebastian Kochanneck, Christian Hirsch, Ingo Mauser, Hartmut Schmeck, Malte Schröder: <br />
 "Bottom-Up Simulation of Suburban Power Grids" <br />
-ETG Congress 2015: Die Energiewende -- Blueprint for the new energy age, VDE VERLAG GmbH, 2015 <br />
+ETG Congress 2015: Die Energiewende -- Blueprint for the new energy age, VDE VERLAG, 2015 <br />
 https://www.vde-verlag.de/proceedings-de/454121021.html
 
+Sebastian Kochanneck, Hartmut Schmeck, Ingo Mauser, Birger Becker: <br />
+"Response of Smart Residential Buildings with Energy Management Systems to Price Deviations" <br />
+2015 IEE Proceedings of the IEEE PES Conference on Innovative Smart Grid Technologies Asia (ISGT-Asia), IEEE, 2015 <br />
+http://ieeexplore.ieee.org/abstract/document/7387186/
 
 ## Citing
 
 If you use this test LV distribution grid in your research, please consider citing:
 <pre><code>
 @InProceedings{kochanneck2015bottom,
-  Title                    = {{Bottom-Up Simulation of Suburban Power Grids}},
-  Author                   = {Kochanneck, Sebastian and Hirsch, Christian and Mauser, Ingo and Schmeck, Hartmut and Schr{\"o}der, Malte},
-  Booktitle                = {ETG Congress 2015: Die Energiewende -- Blueprint for the new energy age},
-  Year                     = {2015},
-  Publisher                = {VDE VERLAG GmbH},
+  author    = {Kochanneck, Sebastian and Hirsch, Christian and Mauser, Ingo and Schmeck, Hartmut and Schr{\"o}der, Malte},
+  title     = {{Bottom-Up Simulation of Suburban Power Grids}},
+  booktitle = {{ETG Congress 2015: Die Energiewende -- Blueprint for the new energy age}},
+  year      = {2015},
+  publisher = {VDE VERLAG},
+}
+</code></pre>
+<pre><code>
+@InProceedings{kochanneck2015response,
+  author    = {Sebastian Kochanneck and Hartmut Schmeck and Ingo Mauser and Birger Becker},
+  title     = {Response of Smart Residential Buildings with Energy Management Systems to Price Deviations},
+  booktitle = {2015 IEE Proceedings of the IEEE PES Conference on Innovative Smart Grid Technologies Asia (ISGT-Asia)},
+  year      = {2015},
+  publisher = {IEEE},
 }
 </code></pre>
 
